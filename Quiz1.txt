@@ -1,0 +1,37 @@
+What is the command to move a file from your working area to the staging area?
+
+
+What is the command to commit everything from the staging area to the repository?
+
+
+What is the command to create an empty, new repository?
+
+
+What is the command to show the differences between two commits?
+
+
+What is the command to see all of the branches in a repository?
+
+
+What is the command to switch to a different branch?
+
+
+What is the command to switch your code to an old commit?
+
+
+What is the command to switch your code to the newest version on the master branch?
+
+
+What is the command to view all the remote repositories linked to the one on your computer?
+
+
+What is the command to send all of your commits to a remote repository (like Github)?
+
+
+What is the command to bring down all the commits from a remote repository (like Github)?
+
+
+What is the command to show what is currently in your working area and staging area?
+
+
+What is the command that combines the commits together from two different branches?

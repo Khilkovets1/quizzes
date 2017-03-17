@@ -28,6 +28,11 @@ git remote
 What is the command to send all of your commits to a remote repository (like Github)?
 git push
 
+
+
+
+sdklfjaslkdjalkjsglkasjgdlak
+
 What is the command to bring down all the commits from a remote repository (like Github)?
 git pull
 

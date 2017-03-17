@@ -23,15 +23,16 @@ What is the command to switch your code to the newest version on the master bran
 git checkout master
 
 What is the command to view all the remote repositories linked to the one on your computer?
-git status
+git remote
 
 What is the command to send all of your commits to a remote repository (like Github)?
 git push
 
 What is the command to bring down all the commits from a remote repository (like Github)?
-
+git pull
 
 What is the command to show what is currently in your working area and staging area?
-
+git status
 
 What is the command that combines the commits together from two different branches?
+git merge

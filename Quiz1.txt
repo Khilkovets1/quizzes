@@ -1,32 +1,32 @@
 What is the command to move a file from your working area to the staging area?
-
+git add
 
 What is the command to commit everything from the staging area to the repository?
-
+git commit --m "note"
 
 What is the command to create an empty, new repository?
-
+git init
 
 What is the command to show the differences between two commits?
-
+git diff id id
 
 What is the command to see all of the branches in a repository?
-
+git checkout branches
 
 What is the command to switch to a different branch?
-
+git checkout "name"
 
 What is the command to switch your code to an old commit?
-
+git checkout id
 
 What is the command to switch your code to the newest version on the master branch?
-
+git checkout master
 
 What is the command to view all the remote repositories linked to the one on your computer?
-
+git status
 
 What is the command to send all of your commits to a remote repository (like Github)?
-
+git push
 
 What is the command to bring down all the commits from a remote repository (like Github)?
 
